@@ -1,4 +1,4 @@
-![image](https://github.com/Gokkul-M/LU-Decomposition/assets/144870543/900234d9-5dfc-4c22-8142-cae3db2b3667)# LU Decomposition 
+# LU Decomposition 
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
